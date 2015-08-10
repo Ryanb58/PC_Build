@@ -27,8 +27,5 @@
 
 - [ ] [EVGA SuperNOVA 850G2 80PLUS Gold Certified ATX12V/EPS12V 850W Power Supply 220-G2-0850-XR](http://www.amazon.com/dp/B00IKDETOC/?tag=pcpapi-20)
 
-##Keyboard:
-- [ ] [Apex](http://steelseries.com/gaming-keyboards/apex)
-
 ##SSD:
 - [ ] [Intel 730](http://www.intel.com/content/www/us/en/solid-state-drives/solid-state-drives-730-series.html)
