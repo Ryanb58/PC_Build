@@ -24,3 +24,6 @@
 
 ##Keyboard:
 - [ ] [Apex](http://steelseries.com/gaming-keyboards/apex)
+
+##SSD:
+- [ ] [Intel 730](http://www.intel.com/content/www/us/en/solid-state-drives/solid-state-drives-730-series.html)
