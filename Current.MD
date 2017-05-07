@@ -1,3 +1,5 @@
+PCParkPicker Link: https://pcpartpicker.com/list/fBnN7h
+
 ##Case:
 
 - [X] [Fractal Define S - Windows](http://www.fractal-design.com/home/product/cases/define-series/define-s-window)
@@ -18,7 +20,7 @@
 ##GPU:
 
 - [ ] 2xGTX560 ti
-- [ ] GTX 1060
+- [X] GTX 1060
 - [ ] GTX 1070
 
 ##Power Supply:
